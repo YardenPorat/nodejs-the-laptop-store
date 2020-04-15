@@ -13,4 +13,4 @@
     
 > Open this link  http://127.0.0.1:1337/ in the browser
 
-[Preview Image:](https://yardenporat.github.io/NodeJS-the-laptop-store/ss.png)
+![Preview Image:](https://yardenporat.github.io/NodeJS-the-laptop-store/ss.png)
